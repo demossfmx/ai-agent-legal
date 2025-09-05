@@ -1,4 +1,4 @@
-# agent_nlp.py - Demo para Slack/GitHub integration
+# agent_nlp.py - Demo para Slack/GitHub integration nueva latencia
 
 class AgentNLP:
     def __init__(self, name):
